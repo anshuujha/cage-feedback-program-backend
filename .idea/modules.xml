@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/com.git.example.iml" filepath="$PROJECT_DIR$/com.git.example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.cage.feedbackpro.iml" filepath="$PROJECT_DIR$/com.cage.feedbackpro.iml" />
     </modules>
   </component>
 </project>

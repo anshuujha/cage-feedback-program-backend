@@ -5,3 +5,4 @@ student can provide feedbacks by answering the questions set by the admins and c
 the list stores the feedbacks from the users both statically and dynamically .
 
 //revised code with the flags added for deleted feedback and questions 
+//added methods for deleting feedbacks 
